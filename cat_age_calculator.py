@@ -22,5 +22,3 @@ human_age = conversion.get(cat_age)
 
 if human_age:
     st.write(f"In human years, your cat would be :blue[**{human_age} years**] old.")
-else:
-    st.write("Please enter your cat's actual age (1 - 20).")
