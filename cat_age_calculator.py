@@ -1,3 +1,6 @@
+"""Calculate a cat's age in human years."""
+
+
 import streamlit as st
 
 
@@ -21,4 +24,7 @@ cat_age = st.number_input(
 human_age = conversion.get(cat_age)
 
 if human_age:
-    st.write(f"In human years, your cat would be :blue[**{human_age} years**] old.")
+    st.write(
+        "In human years, your cat would be "
+        f":blue[**{human_age} years**] old."
+    )
