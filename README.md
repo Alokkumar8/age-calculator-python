@@ -1,7 +1,7 @@
-# cat-age-calculator
+# age-calculator
 
-Calculate your cat's age in human years.
+Calculate your age by date of birth
 
-**https://cat-age.streamlit.app**
+**https://age-calculator-ai.streamlit.app**
 
-Based on [this script](https://gist.github.com/tmitzka/0b105d8071a014cc3d51dfafe0cf485a).
+Try now - [Age Calculator](https://age-calculator.app/).
