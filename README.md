@@ -1,10 +1,10 @@
-# age-calculator
+# cat age calculator
 
-Calculate your age by date of birth
+Calculate your cat's age by human age
 
-**https://age-calculator-ai.streamlit.app**
+**https://cat-age-calculator.streamlit.app**
 
-This open-source Python project: the Age Calculator App! With just your date of birth (DOB) input, it quickly crunches the numbers and gives you your age in years, months, and days. No more missing birthdays or important dates—this tool has got you covered!
+This open-source Python project: the Cat Age Calculator App! With just your cat's age, it quickly crunches the numbers and gives you your age in years, months, and days in human age.
 
 Try now - [Age Calculator](https://age-calculator.app/).
 
