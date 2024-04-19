@@ -5,6 +5,7 @@ import streamlit as st
 
 
 st.title("🐱 Cat Age Calculator")
+st.markdown("Human [age calculator](https://age-calculator.app)")
 
 # Build conversion dictionary: keys are cat years, values are human years.
 conversion = {1: 15}
